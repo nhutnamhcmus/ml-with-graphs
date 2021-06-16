@@ -30,12 +30,25 @@
 
 ## Abstract
 
+This repository based on the CS224W - Machine Learning with Graphs, Stanford / Winter 2021. It contains Google Colab Notebook from 0 to 5 with solution for 1 to 5, Vietnamese Translation Version and some helpful material for learning this course that I have found.
 
 ## Acknowledgments
 
+Thanks to the creators of this courses
 
 ## Introduction
 
+What is this course?
+
+Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biological systems. This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
+
+Topic include in this course:
+- Representation learning and Graph Neural Networks
+- Algorithms for the World Wide Web
+- Reasoning over Knowledge Graphs
+- Influence maximization
+- Disease outbreak detection
+- Social network analysis
 
 ## About our working
 
