@@ -30,7 +30,7 @@
 
 ## Abstract
 
-This repository based on the CS224W - Machine Learning with Graphs, Stanford / Winter 2021. It contains Google Colab Notebook from 0 to 5 with solution for 1 to 5, Vietnamese Translation Version and some helpful material for learning this course that I have found.
+This repository based on the CS224W - Machine Learning with Graphs, Stanford / Winter 2021. It contains Google Colab Notebook from 0 to 5 with solution for 1 to 5 and some helpful material for learning this course that I have found.
 
 ## Acknowledgments
 
@@ -63,16 +63,6 @@ Topic include in this course:
 | Original Notebook Colab 04  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_4.ipynb)  |
 | Original Notebook Colab 05  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_5.ipynb)  |
 
-### Link Google Colab to Original Notebooks with Vietnamese Translation
-
-|   |   |
-|---|---|
-| Original Notebook Colab 00 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_0_Vietnamese.ipynb)|
-| Original Notebook Colab 01 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_1_Vietnamese.ipynb)  |
-| Original Notebook Colab 02 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_2_Vietnamese.ipynb)  |
-| Original Notebook Colab 03 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_3_Vietnamese.ipynb)  |
-| Original Notebook Colab 04 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_4_Vietnamese.ipynb)  |
-| Original Notebook Colab 05 with Vietnamese Translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/ml-with-graphs/blob/main/CS224W_Colab_5_Vietnamese.ipynb)  |
 
 ### Link Google Colab to Solution Notebooks
 
